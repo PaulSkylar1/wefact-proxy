@@ -1,6 +1,6 @@
 <?php
 $api_url = 'https://api.mijnwefact.nl/v2/';
-$api_key = 'c7d471a8e10707630b836495759f8a38';
+$api_key = '-';
 
 $postdata = array(
     'controller' => 'pricequote',
